@@ -260,9 +260,9 @@ window.console = window.console || function (t) {};
 
       const highscores = [];
 
-      const width = 1800;
+      const width = 1200;
       const halfWidth = width / 2;
-      const height = 800;
+      const height = 600;
       const roadW = 4000;
       const segL = 200;
       const camD = 0.2;
